@@ -1,6 +1,10 @@
 # Serverfrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
+This app was created as part of a fullstack project of a server management application. 
+
+It enables crud operations of GET, ADD, DELETE of a server as well as filtering, ping IP testing and Reporting.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9 and it uses Bootstrap version 5.2.2.
 
 ## Development server
 

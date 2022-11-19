@@ -1,0 +1,13 @@
+.new-server-container {
+    display: flex;
+}
+
+.circle-icon {
+    margin-right: 5px;
+}
+
+.header-btn {
+    width: 150px;
+    min-height: 40px;
+    cursor: pointer;
+}
